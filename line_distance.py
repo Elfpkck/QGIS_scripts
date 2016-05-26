@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+'''
+В списке distance_list указываются расстояния, 
+координаты которых необходимо получить. 
+Расстояния откладываются от начала линии. 
+'''
+
 from qgis.core import *
 from qgis.utils import *
 
